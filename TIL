@@ -1,0 +1,29 @@
+
+
+## 저장소 만들기
+
+* git init
+
+
+
+
+ 
+git 명령어를 사용할 수 있도록 설정하는 명령어
+
+ 
+
+##git add README.md
+
+ 
+
+앞서 작성한 README.md 문서를 git에 추가한다.
+
+(이 명령만으로 git으로 올라가 지는 것이 아니다. commit을 수행하고 push를 하는 것 까지 해야 저장이 된다.) 
+
+ 
+
+git commit -m "first commit"
+
+ 
+
+git의 핵심 요소인 commit 명령이다. 구성은 git commit -m "코멘트 내용" 의 순서로 작성하면 된다.
